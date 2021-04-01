@@ -1,0 +1,3 @@
+run
+
+python rook.py -t p3.2xlarge -f /home/ec2-user/environment/Rook/downloads/hash -m 23800 -i rarstuff -s /home/ec2-user/environment/Rook/rarstuff.pem --debug

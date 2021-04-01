@@ -1,0 +1,4 @@
+test-terraform.txt
+.terraform/
+terraform
+*.swp
